@@ -4,7 +4,7 @@
 ---
 ### Artificial Intelligence
 ---
-[![GitHub issues](https://img.shields.io/github/issues/gaurav-codehub/Artificial_Intelligence?logo=github)](https://github.com/gaurav-codehub/Artificial_Intelligence/issues) ![Size](https://github-size-badge.herokuapp.com/gaurav-codehub/Artificial_Intelligence.svg)
+[![GitHub issues](https://img.shields.io/github/issues/Aanvikshiki/Artificial_Intelligence?logo=github)](https://github.com/Aanvikshiki/Artificial_Intelligence/issues) ![Size](https://github-size-badge.herokuapp.com/Aanvikshiki/Artificial_Intelligence.svg)
 </div>
 
 This is the repo of Artificial Intelligence Algorithms implemented in **Python**. 
